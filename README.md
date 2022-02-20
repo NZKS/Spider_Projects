@@ -9,3 +9,7 @@
    - 关于爬取翻译结果
    - 包括 sign 的 js 逆向
    - 文件有 demo.py 与 baidu.js 可参考
+
+3. 网易云音乐
+   - 关于 JS 逆向
+   - 包括 _signature 的逆向
